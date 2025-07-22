@@ -11,7 +11,8 @@ It supports custom artistic backgrounds, previews the QR in a popup window, and 
 
 🖼️ Demo
 
-[Image Placeholder: Insert your image link here or replace this with a local preview]
+<img width="995" height="784" alt="image" src="https://github.com/user-attachments/assets/891410c9-2598-425d-a90b-d6d46b3ddb40" />
+
 
 ---
 
