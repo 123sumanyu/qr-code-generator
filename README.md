@@ -51,19 +51,20 @@ Make sure your project folder contains the following:
 
 ---
 
-3. ▶️ Run the App
+3. ▶️ Run : qrcode_gen.py
 
-python main.py
+
 
 ---
 
 🖱️ How to Use
 
-1. Launch the app.
-2. Select "wifi qr code" or "form qr code" from the dropdown.
-3. Fill in the appropriate fields (WiFi credentials or Form URL).
-4. Click "Generate QR".
-5. The QR preview will open in a new popup window with a "Download QR Code" button.
+1. Launch the tkinter interface.
+2. then you can change 2.png to desired image to come in background(optional)
+3. Select "wifi qr code" or "form qr code" from the dropdown.
+4. Fill in the appropriate fields (WiFi credentials or Form URL).
+5. Click "Generate QR".
+6. The QR preview will open in a new popup window with a "Download QR Code" button.
 
 ---
 
