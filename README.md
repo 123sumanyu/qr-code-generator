@@ -45,7 +45,7 @@ pip install segno pillow qrcode-artistic
 
 Make sure your project folder contains the following:
 
-- main.py → Main application script
+- qrcode_gen.py → Main application script
 - back.png → Background image for the app window
 - 2.png → Background used for form QR artistic style
 
